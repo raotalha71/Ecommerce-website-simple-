@@ -60,7 +60,6 @@ This is a simple ecommerce website project built with HTML, CSS (Bootstrap), and
 
 - Design inspired by modern ecommerce layouts
 - Images and icons are for demo purposes only
-- Developed by Ekram Asif
 
 ## License
 
